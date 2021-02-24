@@ -1,0 +1,16 @@
+body{
+    font-size: 40px;
+    color:aquamarine;
+    background-color: linear-gradient(yellow 0%, #FAA613 100%);
+    font-family: arial;
+    border-width:thick;
+    border: 10px;
+    border-radius: 0px;
+    border-color: crimson;
+    align-content: center;
+}
+p{
+    text-align: center;
+    color: aquamarine;
+    background-color: crimson;
+}
